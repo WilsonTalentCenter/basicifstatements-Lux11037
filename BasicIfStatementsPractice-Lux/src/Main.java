@@ -31,9 +31,13 @@ if (userInput>=8){
     System.out.println("When it becomes apparent");
 }
         //write an if statement that prints out "I used to hate facial hair," if the input is less than or equal to 12
-
+if (userInput<=12){
+    System.out.println("I used to hate facial hair,");
+}
         //write an if statement that prints out " but then it grew on me."  if the input does not equal 23
-
+if (userInput!=23){
+    System.out.println(" but then it grew on me.4");
+}
     }
 
 
